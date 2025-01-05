@@ -103,7 +103,7 @@ const Products = () => {
       <section className="relative h-screen flex items-center justify-center">
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30" />
         <img
-          src="https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x847_crop_center-center_82_line/open-a-bakery-header.jpg"
+          src="https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-4.0.3"
           alt="Bakery"
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
